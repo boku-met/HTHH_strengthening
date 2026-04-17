@@ -1,11 +1,11 @@
 [![Python 3.7](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-369/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-# Ozone recovery effects on mesospheric dynamics in the southern hemisphere 
+# Was the strengthening of the Northern polar vortex in 2024/2025 associated with the Hunga Tonga eruption? 
 
  **[Ales Kuchar](https://github.com/kuchaale), Matthias Stocker, Alistair Bell, [Bruno Lehner](https://github.com/brunolehner), [Jessica Kult-Herdin](https://github.com/Jevare), Gabriel Chiodo, Timofei Sukhodolov, Eugene Rozanov, Gunter Stober, and Harald E. Rieder**
 
-Submitted to [ACP](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-406/))
+Submitted to [ACP](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-406/).
 
 Code used to process and visualise the model and other data outputs in order to reproduce figures in the manuscript.
 Model data are available [here](?). All datasets already preprocessed can be found [here](?).
