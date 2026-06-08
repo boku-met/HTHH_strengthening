@@ -8,7 +8,7 @@
 Submitted to [ACP](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-406/).
 
 Code used to process and visualise the model and other data outputs in order to reproduce figures in the manuscript.
-Model data are available [here](?). All datasets already preprocessed can be found [here](?).
+Any direct access to full simulation data can be arranged by contacting the authors. All datasets already preprocessed can be found [here](https://data.mendeley.com/preview/hb3whw3nfr).
 
 Notebooks for each individual figure as well as for two data tables are in the [`code/` directory](code), while the figures themselves are in the [`plots/` directory](plots).
 
@@ -28,7 +28,7 @@ Notebooks for each individual figure as well as for two data tables are in the [
 #### Appendix figures
 |  #  | Figure                                                                                                                                                                                                    | Notebook                                                                              | Dependencies                                                                                                                                                             |
 |:---:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  A1 | [Explained variance of NAM time series.](plots/NAM_explained_variance.pdf)                                               | [NAM_CMAM_variance.ipynb](code/NAM_CMAM_variance.ipynb)                     | |
+|  A1 | [Globally averaged water vapour anomalies](plots/Fig_A1_h2o_anom_socol_MLS_SWOOSH.pdf)                                               | [NAM_CMAM_variance.ipynb](code/NAM_CMAM_variance.ipynb)                     | |
                                                                                                                              
                                                   
 
