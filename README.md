@@ -37,7 +37,7 @@ Notebooks for each individual figure as well as for two data tables are in the [
 #### Supplementary figures
 |  #  | Figure                                                                                                                                                                                                    | Notebook                                                                              | Dependencies                                                                                                                                                             |
 |:---:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  S1 | [Daily Eliassen-Palm flux diagnostics for the extended winter 2023/2024 (SOCOL)](plots/EPFD_plot_2023-2024.pdf)                                               | [NAM_all-winters.ipynb](code/NAM_all-winters.ipynb)                     | |
+|  S1 | [Daily Eliassen-Palm flux diagnostics for the extended winter 2023/2024 (SOCOL)](https://drive.boku.ac.at/f/767f314f989e4886b109/)                                               | [NAM_all-winters.ipynb](code/NAM_all-winters.ipynb)                     | |
 
     
     
